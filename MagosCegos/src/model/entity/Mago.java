@@ -3,12 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package model;
+package model.entity;
+
+import java.awt.Image;
 
 /**
  *
  * @author Nicollas
  */
-public class Unidade {
+public class Mago {
+
+    private int vida;
     
+    private Image sprite;
+
 }
